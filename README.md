@@ -22,7 +22,7 @@ Atlas is a modern, lightweight MVC (Model-View-Controller) web framework built i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/atlas.git
+   git clone https://github.com/tamuka27/atlas.git
    cd atlas
    ```
 
