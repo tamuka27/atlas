@@ -1,0 +1,9 @@
+/Users/tamuka/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/tamuka/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/tamuka/CLionProjects/atlas -B /Users/tamuka/CLionProjects/atlas/cmake-build-debug
+CMake Error at CMakeLists.txt:19 (add_executable):
+  add_executable cannot create target "atlas" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "/Users/tamuka/CLionProjects/atlas".  See documentation
+  for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!

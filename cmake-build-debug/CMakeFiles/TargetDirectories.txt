@@ -1,0 +1,3 @@
+/Users/tamuka/CLionProjects/atlas/cmake-build-debug/CMakeFiles/atlas.dir
+/Users/tamuka/CLionProjects/atlas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tamuka/CLionProjects/atlas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
