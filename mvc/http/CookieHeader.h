@@ -17,6 +17,7 @@ namespace atlas {
 
         class CookieHeader {
         public:
+            CookieHeader() = default;
             CookieHeader(const std::string& name, const std::string& value);
 
             // Setters
@@ -43,9 +44,9 @@ namespace atlas {
             std::string value;
             std::string domain;
             std::string path;
-            int maxAge;
-            bool secure;
-            bool httpOnly;
+            int maxAge{};
+            bool secure{};
+            bool httpOnly{};
         };
     }
 }

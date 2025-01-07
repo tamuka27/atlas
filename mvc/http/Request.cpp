@@ -5,8 +5,9 @@
 #include "CookieHeader.h"
 #include "RequestHeader.h"
 
-namespace mvc {
+namespace atlas {
     namespace http {
+
 
         Request::Request(HttpMethod method, const std::string& path)
             : method(method), path(path) {}

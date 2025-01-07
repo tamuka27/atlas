@@ -1,2 +1,23 @@
 # ninja log v6
+19	560	1736197493024748967	CMakeFiles/atlas.dir/mvc/http/ContentType.cpp.o	857ff07ad96788c8
 1	632	1735576276399558536	CMakeFiles/atlas.dir/main.cpp.o	652964336f2f5f8
+2	49	1736197884372990793	build.ninja	336f718db2505269
+19	725	1736197493024844842	CMakeFiles/atlas.dir/mvc/http/Cookie.cpp.o	6a294bf13ecb2f5e
+20	783	1736197493025048800	CMakeFiles/atlas.dir/mvc/http/Response.cpp.o	9f7dd29c38cba575
+7	514	1736197520094094448	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+7	692	1736198662412558493	CMakeFiles/atlas.dir/main.cpp.o	150f028f9fd9bcfc
+8	708	1736198662413651108	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+9	683	1736199309740922219	CMakeFiles/atlas.dir/mvc/http/Cookie.cpp.o	6a294bf13ecb2f5e
+9	706	1736199309741065176	CMakeFiles/atlas.dir/mvc/http/Request.cpp.o	b92dd34f20ca268e
+9	730	1736199309741175925	CMakeFiles/atlas.dir/mvc/http/Response.cpp.o	9f7dd29c38cba575
+7	733	1736199309739456691	CMakeFiles/atlas.dir/main.cpp.o	150f028f9fd9bcfc
+9	781	1736199309741283424	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+781	888	1736199310513076382	atlas	322f419f0b126e21
+7	700	1736199572494988727	CMakeFiles/atlas.dir/main.cpp.o	150f028f9fd9bcfc
+8	724	1736199572495668719	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+5	473	1736199599118646430	CMakeFiles/atlas.dir/main.cpp.o	150f028f9fd9bcfc
+5	503	1736199599118966676	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+7	446	1736199611217843545	CMakeFiles/atlas.dir/mvc/http/Request.cpp.o	b92dd34f20ca268e
+8	495	1736199611217984377	CMakeFiles/atlas.dir/mvc/server/Server.cpp.o	f350eced4475cec2
+20	598	1736199645364537794	CMakeFiles/atlas.dir/main.cpp.o	150f028f9fd9bcfc
+599	691	1736199645942603133	atlas	322f419f0b126e21
